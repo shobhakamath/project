@@ -12,9 +12,8 @@ docker run -d --hostname my-rabbit --name my-rabbit  -p 15672:15672 -p 5672:5672
 
 http://localhost:15672/#/ 
 username : guest
-passowrd : guest
+password : guest
 
-![Rabbit MQ](images/rabbit-mq.PNG?raw=true)
- 
+![rabbit mq](images/rabbit-mq.png?raw=true)
 
 ![Queue created programmatically](images/rabbit%20queue%20created.PNG?raw=true)
