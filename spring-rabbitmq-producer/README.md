@@ -14,4 +14,6 @@ http://localhost:15672/#/
 username : guest
 passowrd : guest
 
-<img src="/images/rabbit-mq.png raw="true"/>
+![rabbit mq](images/rabbit-mq.png?raw=true)
+
+![Queue created programmatically](images/rabbit%20queue%20created.PNG?raw=true)
